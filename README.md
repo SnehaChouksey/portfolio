@@ -1,4 +1,4 @@
-# Sneha Chouksey — Portfolio
+# Sneha Chouksey's Personal Portfolio
 
 A modern, performance-focused personal portfolio built to showcase my work as a **Full Stack Engineer & GenAI Engineer**.  
 This website highlights my projects, technical skills, experience, and ways to connect, all through a clean, animated, and User-friendly interface.
@@ -58,6 +58,12 @@ This website highlights my projects, technical skills, experience, and ways to c
 - Live Portfolio: https://portfolio-sneha-five.vercel.app/
  
   
+---
+
+## 👩‍💻 Author
+
+Made with ❤️ by Sneha Chouksey 
+
 ---
 
 © 2025 Sneha Chouksey. All rights reserved.
