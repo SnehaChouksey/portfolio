@@ -54,6 +54,9 @@ This website highlights my projects, technical skills, experience, and ways to c
 - LinkedIn: https://www.linkedin.com/in/sneha-chouksey
 
 - Email: snehachouksey2403@gmail.com
+
+- Live Portfolio: https://portfolio-sneha-five.vercel.app/
+ 
   
 ---
 
