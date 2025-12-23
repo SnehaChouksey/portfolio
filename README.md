@@ -1,7 +1,7 @@
 # Sneha Chouksey — Portfolio
 
 A modern, performance-focused personal portfolio built to showcase my work as a **Full Stack Engineer & GenAI Engineer**.  
-This website highlights my projects, technical skills, experience, and ways to connect — all through a clean, animated, and recruiter-friendly interface.
+This website highlights my projects, technical skills, experience, and ways to connect, all through a clean, animated, and User-friendly interface.
 
 ---
 
@@ -17,8 +17,7 @@ This website highlights my projects, technical skills, experience, and ways to c
 
 ## 🛠️ Tech Stack
 
-- **Frontend Framework:** React (Create React App)
-- **Configuration:** CRACO
+- **Frontend Framework:** React 
 - **Styling:** Tailwind CSS
 - **Animations:** Framer Motion, GSAP
 - **Icons:** Lucide React
